@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+
+.head {
+    text-align: center;
+    font-size: 50px;
+    font-family:impact ;
+}
+
+#output{
+    font-family:cursive;
+}
